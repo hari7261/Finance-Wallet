@@ -8,9 +8,9 @@ The **Personal Finance Tool** is your all-in-one solution for tracking income, m
 
 Whether you're budgeting for the month, reviewing expenses, or celebrating financial milestones, this tool is designed to empower you with clear insights and seamless usability.
 
----
+![img](./image.png)
 
-![](./image.png)
+---
 
 ## ✨ Key Features
 
@@ -56,12 +56,12 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/personal-finance-tool.git
+   git clone https://github.com/hari7261/Finance-Wallet.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd personal-finance-tool
+   cd Finance-Wallet
    ```
 
 3. **Install Dependencies**:
@@ -118,7 +118,7 @@ Follow these steps to set up the project locally:
 
 We welcome feedback and contributions to improve the Personal Finance Tool. Feel free to:
 
-- Report issues: [GitHub Issues](https://github.com/your-username/personal-finance-tool/issues)
+- Report issues: [GitHub Issues](https://github.com/hari7261/Finance-Wallet/issues)
 - Contribute: Fork the repo, make changes, and submit a pull request.
 
 ---
@@ -126,13 +126,13 @@ We welcome feedback and contributions to improve the Personal Finance Tool. Feel
 ## 🚀 Demo
 
 Check out the live demo:
-[Personal Finance Tool Demo](https://your-demo-url.com)
+[Personal Finance Tool Demo](https://finance-wallet.vercel.app/)
 
 ---
 
 ## 👤 Author
 
-Developed with ❤️ by [Your Name](https://your-profile-link.com). For inquiries, connect via [LinkedIn](https://linkedin.com/in/your-profile).
+Developed with ❤️ by [Hari](https://github.com/hari7261). For inquiries, connect via [LinkedIn](https://linkedin.com/in/your-profile).
 
 ---
 
